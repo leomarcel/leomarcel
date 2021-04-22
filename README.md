@@ -23,4 +23,4 @@
 
 💬 Ask me anything on my email: <a href="mailto:leo.marcel.pro@gmail.com">leo.marcel.pro@gmail.com</a>
 
-📫 Or by my portfolio : <a href="leomarcel.fr">leomarcel.fr</a>
+📫 Or by my portfolio : <a href="https://leomarcel.fr" target="_blank">leomarcel.fr</a>
