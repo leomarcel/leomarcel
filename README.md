@@ -1,4 +1,4 @@
-![gif](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/21d8b296-33cf-4e73-9ec9-72e174dee81a/kFuIOzX.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210503%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210503T120615Z&X-Amz-Expires=86400&X-Amz-Signature=9d465bcf60aeee581d61a1e52fce22f5983e78938881fbadb5031aeef1fec42d&X-Amz-SignedHeaders=host)
+![gif](https://raw.githubusercontent.com/leomarcel/leomarcel/main/src/jap.gif)
 
 ## Hi there 👋
 
