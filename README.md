@@ -1,4 +1,4 @@
-![gif](https://raw.githubusercontent.com/leomarcel/leomarcel/main/src/jap.gif)
+<!-- ![gif](https://raw.githubusercontent.com/leomarcel/leomarcel/main/src/jap.gif) -->
 
 ## Hi there 👋
 
@@ -6,9 +6,9 @@
 
 🌱 - New technologies enthousiast, I diversy my skillset... a lot. 
 
-✨ - Fullstack developper, Software developper.
+✨ - Fullstack developper (but mainly web and mobile developer)
 
-🔭 - Passionnate about broadcasting, video encoding, ioT, security, web, and teaching of course. 
+🔭 - Passionate about web development, mobile, AI, data, security, systems,...
 
 ### ⚡ Stats (because stats are cool)
 
