@@ -1,4 +1,4 @@
-![gif](https://raw.githubusercontent.com/leomarcel/leomarcel/main/src/jap.gif)
+<!-- ![gif](https://raw.githubusercontent.com/leomarcel/leomarcel/main/src/jap.gif) -->
 
 <h1 align="center">Hi 👋, I'm Léo</h1>
 <h3 align="center">A passionate developer from France 🇫🇷</h3>
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **leo.marcel.pro@gmail.com**
 
-- 📄 Know about my experiences [leomarcel.fr](leomarcel.fr)
+- 📄 Know about my experiences [https://leomarcel.fr](https://leomarcel.fr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
